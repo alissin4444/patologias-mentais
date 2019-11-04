@@ -1,3 +1,5 @@
+// the name of this archive is ".sequelizerc"
+
 // paste this content
 const path = require("path");
 
